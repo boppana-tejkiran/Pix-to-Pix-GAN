@@ -1,4 +1,4 @@
-# Pix-to-Pix-GAN
+# Pix-to-Pix-GAN using PyTorch
 Pix to Pix Gan Model to generate google map images from Satellite Images
 
 Dataset : pix2pix dataset (Maps)
@@ -10,3 +10,4 @@ Original Images:
 
 Generated Images:
 ![alt text](https://github.com/boppana-tejkiran/Pix-to-Pix-GAN/blob/main/y_gen_234.png?raw=true)
+
